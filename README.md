@@ -1,4 +1,4 @@
-# Eniac-Projects
+# Eniac-Project 
 Eniac Expansion Analysis: Brazilian Market Exploration with Magist Partnership
 Project Overview
 
